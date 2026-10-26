@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+# Không commit private key thật
+private.pem
+*-private.pem
